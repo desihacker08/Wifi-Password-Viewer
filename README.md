@@ -1,9 +1,27 @@
 # Wifi-Password-Viewer
+<P align="center" size>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=50&pause=1000&width=850&height=100&lines=Wi-Fi+Password+Viewer+(Windows)" alt="Typing SVG" /></a></p>
 
-## Wi-Fi Password Viewer (Windows)
 This PowerShell script retrieves stored Wi-Fi passwords from your Windows system.
 
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRmYnZmenF4MTc2cjdla2NqZHo4d2VoNG5oaWs1cnFkbWg4dnQ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26Ff0SPm2ghGBiPTy/giphy.webp" alt="Show Password" >
+
+## File Location
+```
+Wifi-Password-Viewer/
+│
+├── images/
+│ └── execute permission.png
+| └── wifi.png
+│
+├── src/
+|└── wifi_password_viewer.ps1
+|
+├── LICENSE
+└── README.md
+```
+
 ## Instructions for Use
 1. **Download the script:**
 Download the script from [here]()
