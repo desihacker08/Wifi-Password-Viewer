@@ -3,7 +3,7 @@
 ## Wi-Fi Password Viewer (Windows)
 This PowerShell script retrieves stored Wi-Fi passwords from your Windows system.
 
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRmYnZmenF4MTc2cjdla2NqZHo4d2VoNG5oaWs1cnFkbWg4dnQ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26Ff0SPm2ghGBiPTy/giphy.webp" alt="Show Password" >
 ## Instructions for Use
 1. **Download the script:**
 Download the script from [here]()
